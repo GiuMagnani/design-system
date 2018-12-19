@@ -34,7 +34,13 @@ sources:
 
 • Font weight
 • Line height
+
+
 • Color
+- **Greys:** 8-10 shades.
+- **Primary colours:** 5-10; Colours that determine the overall look of a site.
+- **Accent colours:** 5-10; emphasize, contrast, eye-grabbing, highlight, **different semantic states** (desctructive, warning, positive, etc).
+
 • Margin
 • Padding
 • Width
