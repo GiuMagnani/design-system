@@ -14,6 +14,7 @@ sources:
 - Align mixed font sizes by their baseline.
 - Line-height and paragraph width should be proportional. Narrow content: shorter line-height (1.5), wide content: greater line-height (2). The purpose of increasing the line-height is to avoid reading two times the same line (easier to find the next line).
 - Line-height and font size are inversely proportional. Small texts: taller line-height, large texts (headings): shorter line-height.
+- when justifying text, also enable hyphenation
 
 ### Font size:
 #### By ratio (2:3, 1:1.618)
