@@ -41,6 +41,12 @@ sources:
 - **Primary colours:** 5-10; Colours that determine the overall look of a site.
 - **Accent colours:** 5-10; emphasize, contrast, eye-grabbing, highlight, **different semantic states** (desctructive, warning, positive, etc).
 
+For primary and accent colors, a good rule of thumb is to pick a shade that would work well as a button background.
+Pick your darkest shade and your lightest shade.
+The darkest shade of a color is usually reserved for text, while the lightest shade might be used to tint the background of an element. An alert use both colours.
+Once you’ve got your base, darkest, and lightest shades, you just need to fill in the gaps in between them (until you make 9 shades).
+**Trust your eyes, not the numbers.** Just try to avoid adding new shades too often if you can avoid it.
+
 • Margin
 • Padding
 • Width
