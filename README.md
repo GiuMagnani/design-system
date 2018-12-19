@@ -47,6 +47,10 @@ The darkest shade of a color is usually reserved for text, while the lightest sh
 Once you’ve got your base, darkest, and lightest shades, you just need to fill in the gaps in between them (until you make 9 shades).
 **Trust your eyes, not the numbers.** Just try to avoid adding new shades too often if you can avoid it.
 
+- Perceived brightness: every hue has an inherent perceived brightness due to how the human eye perceives color (between a yellow and a blue with same brightness, yellow seems to be brighter).
+- Local minimums: red, green, and blue.
+- Three local maximums: yellow, cyan, and magenta.
+
 • Margin
 • Padding
 • Width
