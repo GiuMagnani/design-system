@@ -51,6 +51,12 @@ Once you’ve got your base, darkest, and lightest shades, you just need to fill
 - Local minimums: red, green, and blue.
 - Three local maximums: yellow, cyan, and magenta.
 
+To make a color lighter/darker (without losing colour intensity = changing "l: lightness"):
+- Lighter: rotate the hue towards the nearest bright hue — 60°, 180°, or 300°.
+- Darker: to make a color darker, rotate the hue towards the nearest dark hue — 0°, 120°, or 240°.
+
+You can of course combine these approaches too, getting some of the brightness by adjusting the hue and some from adjusting the lightness. Don't change the hue more than 20%-30%, or it will look like a totally different color instead of just lighter or darker.
+
 • Margin
 • Padding
 • Width
